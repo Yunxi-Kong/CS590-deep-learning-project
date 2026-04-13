@@ -146,7 +146,7 @@ Selected report figures are stored in `report_resources/figures/`.
 
 The `report_resources/` directory contains:
 
-- `report_draft.md`: a report draft
+- `report_draft.md`: a report draft I wrote
 - `experiment_summary.md`: a compact explanation of the project stages and findings.
 - `results_tables/`: CSV tables for main results, ablations, calibration, and bootstrap analysis.
 - `figures/`: selected figures for the report and presentation.
