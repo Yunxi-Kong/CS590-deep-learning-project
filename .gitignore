@@ -1,0 +1,37 @@
+# Local data and generated artifacts
+data/
+raw_data/
+processed/
+outputs/
+results/runs/
+checkpoints/
+predictions/
+
+# Large experiment files
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.csv.gz
+cleaned_responses*
+events.npz
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Notebook and OS noise
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local-only configuration
+.env
+local_config.json

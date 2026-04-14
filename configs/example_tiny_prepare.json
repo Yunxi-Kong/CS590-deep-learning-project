@@ -1,0 +1,10 @@
+{
+  "description": "Fast sanity-check subset for verifying preprocessing and training.",
+  "kt1_dir": "/path/to/EdNet-KT1/KT1",
+  "questions": "/path/to/EdNet-Contents/contents/questions.csv",
+  "out_dir": "data/processed/kt1_tiny",
+  "target_users": 300,
+  "max_raw_users": 2500,
+  "min_responses": 10,
+  "seed": 42
+}

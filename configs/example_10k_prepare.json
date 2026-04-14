@@ -1,0 +1,10 @@
+{
+  "description": "Larger scale-validation subset used for the main 10k-student experiments.",
+  "kt1_dir": "/path/to/EdNet-KT1/KT1",
+  "questions": "/path/to/EdNet-Contents/contents/questions.csv",
+  "out_dir": "data/processed/kt1_10k",
+  "target_users": 10000,
+  "max_raw_users": 50000,
+  "min_responses": 10,
+  "seed": 42
+}
